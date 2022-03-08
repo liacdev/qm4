@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Do you prefer pizza or tacos?
+  answers:
+  - Beeswax
+  - Talcum
+  - Bond
+  - Gravity
+  correctAnswerIndex: 0
